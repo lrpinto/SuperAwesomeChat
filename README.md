@@ -2,6 +2,8 @@
 
 Chat application built with React as an exercise of my React Nanodegree at Udacity.
 
+![Super Awesome Chat Demo](super-awesome-chat.gif)
+
 
 ## Installation
 
