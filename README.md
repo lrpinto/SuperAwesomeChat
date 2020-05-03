@@ -23,4 +23,4 @@ npm start
 
 ## Class Diagram
 
-![Class Diagram](https://www.lucidchart.com/publicSegments/view/5c57b1fc-fde0-403c-979f-3f011ad389db/image.png)
+![Class Diagram](https://www.lucidchart.com/publicSegments/view/260d56b3-77f5-4287-8362-76adadc268b3/image.png)
